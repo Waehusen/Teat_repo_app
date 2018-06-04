@@ -1,3 +1,6 @@
 # Teat_repo_app
-# Teat_repo_app
-Waeuseng Laka
+## Waeuseng Laka
+### สมาชิกในกลุ่ม
+_1แวอูเซ็ง ลากา
+2 มูฮำหมัด กะลูแป
+3 แวฟาอิส แวสแลแม_##
